@@ -1,0 +1,402 @@
+[
+  {
+    "front": "der Tisch, die Tische",
+    "back": "Table"
+  },
+  {
+    "front": "der Stuhl, die Stühle",
+    "back": "Chair"
+  },
+  {
+    "front": "das Buch, die Bücher",
+    "back": "Book"
+  },
+  {
+    "front": "der Hund, die Hunde",
+    "back": "Dog"
+  },
+  {
+    "front": "die Katze, die Katzen",
+    "back": "Cat"
+  },
+  {
+    "front": "das Haus, die Häuser",
+    "back": "House"
+  },
+  {
+    "front": "die Tür, die Türen",
+    "back": "Door"
+  },
+  {
+    "front": "das Fenster, die Fenster",
+    "back": "Window"
+  },
+  {
+    "front": "der Apfel, die Äpfel",
+    "back": "Apple"
+  },
+  {
+    "front": "die Banane, die Bananen",
+    "back": "Banana"
+  },
+  {
+    "front": "das Wasser, die Wasser",
+    "back": "Water"
+  },
+  {
+    "front": "der Kaffee, die Kaffees",
+    "back": "Coffee"
+  },
+  {
+    "front": "der Tee, die Tees",
+    "back": "Tea"
+  },
+  {
+    "front": "das Brot, die Brote",
+    "back": "Bread"
+  },
+  {
+    "front": "die Butter, die Butter",
+    "back": "Butter"
+  },
+  {
+    "front": "der Käse, die Käse",
+    "back": "Cheese"
+  },
+  {
+    "front": "das Ei, die Eier",
+    "back": "Egg"
+  },
+  {
+    "front": "die Milch, die Milch",
+    "back": "Milk"
+  },
+  {
+    "front": "der Zucker, die Zucker",
+    "back": "Sugar"
+  },
+  {
+    "front": "das Salz, die Salze",
+    "back": "Salt"
+  },
+  {
+    "front": "der Pfeffer, die Pfeffer",
+    "back": "Pepper"
+  },
+  {
+    "front": "das Fleisch, die Fleisch",
+    "back": "Meat"
+  },
+  {
+    "front": "der Fisch, die Fische",
+    "back": "Fish"
+  },
+  {
+    "front": "das Gemüse, die Gemüse",
+    "back": "Vegetable"
+  },
+  {
+    "front": "die Kartoffel, die Kartoffeln",
+    "back": "Potato"
+  },
+  {
+    "front": "die Tomate, die Tomaten",
+    "back": "Tomato"
+  },
+  {
+    "front": "die Zwiebel, die Zwiebeln",
+    "back": "Onion"
+  },
+  {
+    "front": "der Knoblauch, die Knoblauch",
+    "back": "Garlic"
+  },
+  {
+    "front": "der Reis, die Reise",
+    "back": "Rice"
+  },
+  {
+    "front": "die Nudel, die Nudeln",
+    "back": "Noodle"
+  },
+  {
+    "front": "das Öl, die Öle",
+    "back": "Oil"
+  },
+  {
+    "front": "der Wein, die Weine",
+    "back": "Wine"
+  },
+  {
+    "front": "das Bier, die Biere",
+    "back": "Beer"
+  },
+  {
+    "front": "der Saft, die Säfte",
+    "back": "Juice"
+  },
+  {
+    "front": "die Suppe, die Suppen",
+    "back": "Soup"
+  },
+  {
+    "front": "der Salat, die Salate",
+    "back": "Salad"
+  },
+  {
+    "front": "der Kuchen, die Kuchen",
+    "back": "Cake"
+  },
+  {
+    "front": "das Eis, die Eise",
+    "back": "Ice Cream"
+  },
+  {
+    "front": "der Schokolade, die Schokoladen",
+    "back": "Chocolate"
+  },
+  {
+    "front": "der Honig, die Honige",
+    "back": "Honey"
+  },
+  {
+    "front": "der Apfel, die Äpfel",
+    "back": "Apple"
+  },
+  {
+    "front": "die Orange, die Orangen",
+    "back": "Orange"
+  },
+  {
+    "front": "die Erdbeere, die Erdbeeren",
+    "back": "Strawberry"
+  },
+  {
+    "front": "die Traube, die Trauben",
+    "back": "Grape"
+  },
+  {
+    "front": "die Melone, die Melonen",
+    "back": "Melon"
+  },
+  {
+    "front": "die Ananas, die Ananas",
+    "back": "Pineapple"
+  },
+  {
+    "front": "die Zitrone, die Zitronen",
+    "back": "Lemon"
+  },
+  {
+    "front": "die Limette, die Limetten",
+    "back": "Lime"
+  },
+  {
+    "front": "die Kiwi, die Kiwis",
+    "back": "Kiwi"
+  },
+  {
+    "front": "die Mango, die Mangos",
+    "back": "Mango"
+  },
+  {
+    "front": "die Banane, die Bananen",
+    "back": "Banana"
+  },
+  {
+    "front": "die Birne, die Birnen",
+    "back": "Pear"
+  },
+  {
+    "front": "die Pfirsich, die Pfirsiche",
+    "back": "Peach"
+  },
+  {
+    "front": "die Pflaume, die Pflaumen",
+    "back": "Plum"
+  },
+  {
+    "front": "die Kirsche, die Kirschen",
+    "back": "Cherry"
+  },
+  {
+    "front": "die Himbeere, die Himbeeren",
+    "back": "Raspberry"
+  },
+  {
+    "front": "die Blaubeere, die Blaubeeren",
+    "back": "Blueberry"
+  },
+  {
+    "front": "die Brombeere, die Brombeeren",
+    "back": "Blackberry"
+  },
+  {
+    "front": "die Johannisbeere, die Johannisbeeren",
+    "back": "Currant"
+  },
+  {
+    "front": "die Stachelbeere, die Stachelbeeren",
+    "back": "Gooseberry"
+  },
+  {
+    "front": "die Feige, die Feigen",
+    "back": "Fig"
+  },
+  {
+    "front": "die Dattel, die Datteln",
+    "back": "Date"
+  },
+  {
+    "front": "die Kokosnuss, die Kokosnüsse",
+    "back": "Coconut"
+  },
+  {
+    "front": "die Walnuss, die Walnüsse",
+    "back": "Walnut"
+  },
+  {
+    "front": "die Mandel, die Mandeln",
+    "back": "Almond"
+  },
+  {
+    "front": "die Haselnuss, die Haselnüsse",
+    "back": "Hazelnut"
+  },
+  {
+    "front": "die Erdnuss, die Erdnüsse",
+    "back": "Peanut"
+  },
+  {
+    "front": "die Pistazie, die Pistazien",
+    "back": "Pistachio"
+  },
+  {
+    "front": "die Cashewnuss, die Cashewnüsse",
+    "back": "Cashew"
+  },
+  {
+    "front": "die Macadamianuss, die Macadamianüsse",
+    "back": "Macadamia"
+  },
+  {
+    "front": "die Pekannuss, die Pekannüsse",
+    "back": "Pecan"
+  },
+  {
+    "front": "die Pinienkerne, die Pinienkerne",
+    "back": "Pine Nut"
+  },
+  {
+    "front": "die Sonnenblumenkerne, die Sonnenblumenkerne",
+    "back": "Sunflower Seed"
+  },
+  {
+    "front": "die Kürbiskerne, die Kürbiskerne",
+    "back": "Pumpkin Seed"
+  },
+  {
+    "front": "die Sesamsamen, die Sesamsamen",
+    "back": "Sesame Seed"
+  },
+  {
+    "front": "die Leinsamen, die Leinsamen",
+    "back": "Flaxseed"
+  },
+  {
+    "front": "die Chiasamen, die Chiasamen",
+    "back": "Chia Seed"
+  },
+  {
+    "front": "die Quinoa, die Quinoa",
+    "back": "Quinoa"
+  },
+  {
+    "front": "die Hirse, die Hirse",
+    "back": "Millet"
+  },
+  {
+    "front": "die Gerste, die Gerste",
+    "back": "Barley"
+  },
+  {
+    "front": "der Hafer, die Hafer",
+    "back": "Oats"
+  },
+  {
+    "front": "der Weizen, die Weizen",
+    "back": "Wheat"
+  },
+  {
+    "front": "der Roggen, die Roggen",
+    "back": "Rye"
+  },
+  {
+    "front": "der Dinkel, die Dinkel",
+    "back": "Spelt"
+  },
+  {
+    "front": "der Mais, die Mais",
+    "back": "Corn"
+  },
+  {
+    "front": "der Reis, die Reise",
+    "back": "Rice"
+  },
+  {
+    "front": "die Bohne, die Bohnen",
+    "back": "Bean"
+  },
+  {
+    "front": "die Erbse, die Erbsen",
+    "back": "Pea"
+  },
+  {
+    "front": "die Linse, die Linsen",
+    "back": "Lentil"
+  },
+  {
+    "front": "die Kichererbse, die Kichererbsen",
+    "back": "Chickpea"
+  },
+  {
+    "front": "die Sojabohne, die Sojabohnen",
+    "back": "Soybean"
+  },
+  {
+    "front": "die Lupine, die Lupinen",
+    "back": "Lupin"
+  },
+  {
+    "front": "die Erdnuss, die Erdnüsse",
+    "back": "Peanut"
+  },
+  {
+    "front": "die Mandel, die Mandeln",
+    "back": "Almond"
+  },
+  {
+    "front": "die Haselnuss, die Haselnüsse",
+    "back": "Hazelnut"
+  },
+  {
+    "front": "die Walnuss, die Walnüsse",
+    "back": "Walnut"
+  },
+  {
+    "front": "die Pistazie, die Pistazien",
+    "back": "Pistachio"
+  },
+  {
+    "front": "die Cashewnuss, die Cashewnüsse",
+    "back": "Cashew"
+  },
+  {
+    "front": "die Macadamianuss, die Macadamianüsse",
+    "back": "Macadamia"
+  },
+  {
+    "front": "die Pekannuss, die Pekannüsse",
+    "back": "Pecan"
+  }
+]
