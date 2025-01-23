@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Edit Set</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <label for="setSelect">Choose a Set:</label>
+  <select id="setSelect" onchange="loadSet()"></select>
+  <h1>Edit Flashcard Set</h1>
+  <button onclick="exitEditing()">Exit</button>
+  <div id="flashcards"></div>
+  <button onclick="addFlashcard()">Add Flashcard</button>
+  <button onclick="saveSet()">Save Set</button>
+
+  <script src="edit.js"></script>
+</body>
+</html>

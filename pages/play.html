@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Play Flashcards</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+  <h1>Play Flashcards</h1>
+  <div id="setup">
+    <label for="setSelect">Choose a Set:</label>
+    <select id="setSelect"></select>
+    <label for="directionSelect">Choose Direction:</label>
+    <select id="directionSelect">
+      <option value="shuffle">Shuffle</option>
+      <option value="forward">Forward</option>
+      <option value="backward">Backward</option>
+    </select>
+    <button onclick="startPlaying()">Start</button>
+  </div>
+  <div id="flashcard" style="display: none;">
+    <p id="cardText"></p>
+    <button onclick="flipCard()">Flip Card</button>
+    <button onclick="nextCard()">Next</button>
+    <button onclick="exitSet()">Exit Set</button>
+  </div>
+
+  <script src="play.js"></script>
+</body>
+</html>
