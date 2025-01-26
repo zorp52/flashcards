@@ -1,101 +1,398 @@
 [
-    {"front": "{der Stuhl/die Stühle}", "back": "the chair"},
-    {"front": "{der Tisch/die Tische}", "back": "the table"},
-    {"front": "{das Bett/die Betten}", "back": "the bed"},
-    {"front": "{die Lampe/die Lampen}", "back": "the lamp"},
-    {"front": "{die Glühbirne/die Glühbirnen}", "back": "the light bulb"},
-    {"front": "{das Fenster/die Fenster}", "back": "the window"},
-    {"front": "{die Tür/die Türen}", "back": "the door"},
-    {"front": "{der Schlüssel/die Schlüssel}", "back": "the key"},
-    {"front": "{das Schloss/die Schlösser}", "back": "the lock"},
-    {"front": "{die Wand/die Wände}", "back": "the wall"},
-    {"front": "{der Boden/die Böden}", "back": "the floor"},
-    {"front": "{die Decke/die Decken}", "back": "the ceiling"},
-    {"front": "{das Sofa/die Sofas}", "back": "the sofa"},
-    {"front": "{der Teppich/die Teppiche}", "back": "the carpet"},
-    {"front": "{das Regal/die Regale}", "back": "the shelf"},
-    {"front": "{der Schrank/die Schränke}", "back": "the cupboard"},
-    {"front": "{die Schublade/die Schubladen}", "back": "the drawer"},
-    {"front": "{der Kühlschrank/die Kühlschränke}", "back": "the refrigerator"},
-    {"front": "{die Mikrowelle/die Mikrowellen}", "back": "the microwave"},
-    {"front": "{der Herd/die Herde}", "back": "the stove"},
-    {"front": "{die Spüle/die Spülen}", "back": "the sink"},
-    {"front": "{der Wasserhahn/die Wasserhähne}", "back": "the faucet"},
-    {"front": "{das Geschirr/die Geschirre}", "back": "the dishes"},
-    {"front": "{der Teller/die Teller}", "back": "the plate"},
-    {"front": "{die Gabel/die Gabeln}", "back": "the fork"},
-    {"front": "{das Messer/die Messer}", "back": "the knife"},
-    {"front": "{der Löffel/die Löffel}", "back": "the spoon"},
-    {"front": "{das Glas/die Gläser}", "back": "the glass"},
-    {"front": "{die Tasse/die Tassen}", "back": "the cup"},
-    {"front": "{die Flasche/die Flaschen}", "back": "the bottle"},
-    {"front": "{die Schüssel/die Schüsseln}", "back": "the bowl"},
-    {"front": "{das Besteck/die Bestecke}", "back": "the cutlery"},
-    {"front": "{die Serviette/die Servietten}", "back": "the napkin"},
-    {"front": "{der Topf/die Töpfe}", "back": "the pot"},
-    {"front": "{die Pfanne/die Pfannen}", "back": "the pan"},
-    {"front": "{der Ofen/die Öfen}", "back": "the oven"},
-    {"front": "{die Waschmaschine/die Waschmaschinen}", "back": "the washing machine"},
-    {"front": "{der Trockner/die Trockner}", "back": "the dryer"},
-    {"front": "{das Bügeleisen/die Bügeleisen}", "back": "the iron"},
-    {"front": "{der Staubsauger/die Staubsauger}", "back": "the vacuum cleaner"},
-    {"front": "{der Besen/die Besen}", "back": "the broom"},
-    {"front": "{der Eimer/die Eimer}", "back": "the bucket"},
-    {"front": "{der Lappen/die Lappen}", "back": "the cloth"},
-    {"front": "{das Handtuch/die Handtücher}", "back": "the towel"},
-    {"front": "{die Seife/die Seifen}", "back": "the soap"},
-    {"front": "{das Shampoo/die Shampoos}", "back": "the shampoo"},
-    {"front": "{die Zahnbürste/die Zahnbürsten}", "back": "the toothbrush"},
-    {"front": "{die Zahnpasta/die Zahnpasten}", "back": "the toothpaste"},
-    {"front": "{der Spiegel/die Spiegel}", "back": "the mirror"},
-    {"front": "{die Bürste/die Bürsten}", "back": "the brush"},
-    {"front": "{der Kamm/die Kämme}", "back": "the comb"},
-    {"front": "{die Schere/die Scheren}", "back": "the scissors"},
-    {"front": "{das Papier/die Papiere}", "back": "the paper"},
-    {"front": "{der Stift/die Stifte}", "back": "the pen"},
-    {"front": "{der Bleistift/die Bleistifte}", "back": "the pencil"},
-    {"front": "{das Buch/die Bücher}", "back": "the book"},
-    {"front": "{das Heft/die Hefte}", "back": "the notebook"},
-    {"front": "{der Computer/die Computer}", "back": "the computer"},
-    {"front": "{der Laptop/die Laptops}", "back": "the laptop"},
-    {"front": "{das Handy/die Handys}", "back": "the mobile phone"},
-    {"front": "{das Tablet/die Tablets}", "back": "the tablet"},
-    {"front": "{die Tastatur/die Tastaturen}", "back": "the keyboard"},
-    {"front": "{die Maus/die Mäuse}", "back": "the mouse"},
-    {"front": "{der Bildschirm/die Bildschirme}", "back": "the screen"},
-    {"front": "{der Drucker/die Drucker}", "back": "the printer"},
-    {"front": "{die Steckdose/die Steckdosen}", "back": "the power outlet"},
-    {"front": "{das Kabel/die Kabel}", "back": "the cable"},
-    {"front": "{die Batterie/die Batterien}", "back": "the battery"},
-    {"front": "{die Uhr/die Uhren}", "back": "the clock"},
-    {"front": "{die Armbanduhr/die Armbanduhren}", "back": "the wristwatch"},
-    {"front": "{der Wecker/die Wecker}", "back": "the alarm clock"},
-    {"front": "{die Brille/die Brillen}", "back": "the glasses"},
-    {"front": "{die Sonnenbrille/die Sonnenbrillen}", "back": "the sunglasses"},
-    {"front": "{der Regenschirm/die Regenschirme}", "back": "the umbrella"},
-    {"front": "{die Tasche/die Taschen}", "back": "the bag"},
-    {"front": "{der Rucksack/die Rucksäcke}", "back": "the backpack"},
-    {"front": "{die Brieftasche/die Brieftaschen}", "back": "the wallet"},
-    {"front": "{der Schlüsselbund/die Schlüsselbunde}", "back": "the keychain"},
-    {"front": "{das Auto/die Autos}", "back": "the car"},
-    {"front": "{das Fahrrad/die Fahrräder}", "back": "the bicycle"},
-    {"front": "{der Bus/die Busse}", "back": "the bus"},
-    {"front": "{der Zug/die Züge}", "back": "the train"},
-    {"front": "{das Flugzeug/die Flugzeuge}", "back": "the airplane"},
-    {"front": "{das Schiff/die Schiffe}", "back": "the ship"},
-    {"front": "{der Roller/die Roller}", "back": "the scooter"},
-    {"front": "{der Helm/die Helme}", "back": "the helmet"},
-    {"front": "{die Jacke/die Jacken}", "back": "the jacket"},
-    {"front": "{der Mantel/die Mäntel}", "back": "the coat"},
-    {"front": "{die Hose/die Hosen}", "back": "the pants"},
-    {"front": "{das Hemd/die Hemden}", "back": "the shirt"},
-    {"front": "{das T-Shirt/die T-Shirts}", "back": "the T-shirt"},
-    {"front": "{der Pullover/die Pullover}", "back": "the sweater"},
-    {"front": "{die Socken/die Socken}", "back": "the socks"},
-    {"front": "{die Schuhe/die Schuhe}", "back": "the shoes"},
-    {"front": "{die Sandalen/die Sandalen}", "back": "the sandals"},
-    {"front": "{die Stiefel/die Stiefel}", "back": "the boots"},
-    {"front": "{der Gürtel/die Gürtel}", "back": "the belt"},
-    {"front": "{die Mütze/die Mützen}", "back": "the hat"},
-    {"front": "{der Schal/die Schals}", "back": "the scarf"}
-  ]
+  {
+    "front": "der Stuhl/die Stühle",
+    "back": "the chair"
+  },
+  {
+    "front": "der Tisch/die Tische",
+    "back": "the table"
+  },
+  {
+    "front": "das Bett/die Betten",
+    "back": "the bed"
+  },
+  {
+    "front": "die Lampe/die Lampen",
+    "back": "the lamp"
+  },
+  {
+    "front": "die Glühbirne/die Glühbirnen",
+    "back": "the light bulab"
+  },
+  {
+    "front": "das Fenster/die Fenster",
+    "back": "the window"
+  },
+  {
+    "front": "die Tür/die Türen",
+    "back": "the door"
+  },
+  {
+    "front": "der Schlüssel/die Schlüssel",
+    "back": "the key"
+  },
+  {
+    "front": "das Schloss/die Schlösser",
+    "back": "the lock"
+  },
+  {
+    "front": "die Wand/die Wände",
+    "back": "the wall"
+  },
+  {
+    "front": "der Boden/die Böden",
+    "back": "the floor"
+  },
+  {
+    "front": "die Decke/die Decken",
+    "back": "the ceiling"
+  },
+  {
+    "front": "das Sofa/die Sofas",
+    "back": "the sofa"
+  },
+  {
+    "front": "der Teppich/die Teppiche",
+    "back": "the carpet"
+  },
+  {
+    "front": "das Regal/die Regale",
+    "back": "the shelf"
+  },
+  {
+    "front": "der Schrank/die Schränke",
+    "back": "the cupboard"
+  },
+  {
+    "front": "die Schublade/die Schubladen",
+    "back": "the drawer"
+  },
+  {
+    "front": "der Kühlschrank/die Kühlschränke",
+    "back": "the refrigerator"
+  },
+  {
+    "front": "die Mikrowelle/die Mikrowellen",
+    "back": "the microwave"
+  },
+  {
+    "front": "der Herd/die Herde",
+    "back": "the stove"
+  },
+  {
+    "front": "die Spüle/die Spülen",
+    "back": "the sink"
+  },
+  {
+    "front": "der Wasserhahn/die Wasserhähne",
+    "back": "the faucet"
+  },
+  {
+    "front": "das Geschirr/die Geschirre",
+    "back": "the dishes"
+  },
+  {
+    "front": "der Teller/die Teller",
+    "back": "the plate"
+  },
+  {
+    "front": "die Gabel/die Gabeln",
+    "back": "the fork"
+  },
+  {
+    "front": "das Messer/die Messer",
+    "back": "the knife"
+  },
+  {
+    "front": "der Löffel/die Löffel",
+    "back": "the spoon"
+  },
+  {
+    "front": "das Glas/die Gläser",
+    "back": "the glass"
+  },
+  {
+    "front": "die Tasse/die Tassen",
+    "back": "the cup"
+  },
+  {
+    "front": "die Flasche/die Flaschen",
+    "back": "the bottle"
+  },
+  {
+    "front": "die Schüssel/die Schüsseln",
+    "back": "the bowl"
+  },
+  {
+    "front": "das Besteck/die Bestecke",
+    "back": "the cutlery"
+  },
+  {
+    "front": "die Serviette/die Servietten",
+    "back": "the napkin"
+  },
+  {
+    "front": "der Topf/die Töpfe",
+    "back": "the pot"
+  },
+  {
+    "front": "die Pfanne/die Pfannen",
+    "back": "the pan"
+  },
+  {
+    "front": "der Ofen/die Öfen",
+    "back": "the oven"
+  },
+  {
+    "front": "die Waschmaschine/die Waschmaschinen",
+    "back": "the washing machine"
+  },
+  {
+    "front": "der Trockner/die Trockner",
+    "back": "the dryer"
+  },
+  {
+    "front": "das Bügeleisen/die Bügeleisen",
+    "back": "the iron"
+  },
+  {
+    "front": "der Staubsauger/die Staubsauger",
+    "back": "the vacuum cleaner"
+  },
+  {
+    "front": "der Besen/die Besen",
+    "back": "the broom"
+  },
+  {
+    "front": "der Eimer/die Eimer",
+    "back": "the bucket"
+  },
+  {
+    "front": "der Lappen/die Lappen",
+    "back": "the cloth"
+  },
+  {
+    "front": "das Handtuch/die Handtücher",
+    "back": "the towel"
+  },
+  {
+    "front": "die Seife/die Seifen",
+    "back": "the soap"
+  },
+  {
+    "front": "das Shampoo/die Shampoos",
+    "back": "the shampoo"
+  },
+  {
+    "front": "die Zahnbürste/die Zahnbürsten",
+    "back": "the toothbrush"
+  },
+  {
+    "front": "die Zahnpasta/die Zahnpasten",
+    "back": "the toothpaste"
+  },
+  {
+    "front": "der Spiegel/die Spiegel",
+    "back": "the mirror"
+  },
+  {
+    "front": "die Bürste/die Bürsten",
+    "back": "the brush"
+  },
+  {
+    "front": "der Kamm/die Kämme",
+    "back": "the comb"
+  },
+  {
+    "front": "die Schere/die Scheren",
+    "back": "the scissors"
+  },
+  {
+    "front": "das Papier/die Papiere",
+    "back": "the paper"
+  },
+  {
+    "front": "der Stift/die Stifte",
+    "back": "the pen"
+  },
+  {
+    "front": "der Bleistift/die Bleistifte",
+    "back": "the pencil"
+  },
+  {
+    "front": "das Buch/die Bücher",
+    "back": "the book"
+  },
+  {
+    "front": "das Heft/die Hefte",
+    "back": "the notebook"
+  },
+  {
+    "front": "der Computer/die Computer",
+    "back": "the computer"
+  },
+  {
+    "front": "der Laptop/die Laptops",
+    "back": "the laptop"
+  },
+  {
+    "front": "das Handy/die Handys",
+    "back": "the mobile phone"
+  },
+  {
+    "front": "das Tablet/die Tablets",
+    "back": "the tablet"
+  },
+  {
+    "front": "die Tastatur/die Tastaturen",
+    "back": "the keyboard"
+  },
+  {
+    "front": "die Maus/die Mäuse",
+    "back": "the mouse"
+  },
+  {
+    "front": "der Bildschirm/die Bildschirme",
+    "back": "the screen"
+  },
+  {
+    "front": "der Drucker/die Drucker",
+    "back": "the printer"
+  },
+  {
+    "front": "die Steckdose/die Steckdosen",
+    "back": "the power outlet"
+  },
+  {
+    "front": "das Kabel/die Kabel",
+    "back": "the cable"
+  },
+  {
+    "front": "die Batterie/die Batterien",
+    "back": "the battery"
+  },
+  {
+    "front": "die Uhr/die Uhren",
+    "back": "the clock"
+  },
+  {
+    "front": "die Armbanduhr/die Armbanduhren",
+    "back": "the wristwatch"
+  },
+  {
+    "front": "der Wecker/die Wecker",
+    "back": "the alarm clock"
+  },
+  {
+    "front": "die Brille/die Brillen",
+    "back": "the glasses"
+  },
+  {
+    "front": "die Sonnenbrille/die Sonnenbrillen",
+    "back": "the sunglasses"
+  },
+  {
+    "front": "der Regenschirm/die Regenschirme",
+    "back": "the umbrella"
+  },
+  {
+    "front": "die Tasche/die Taschen",
+    "back": "the bag"
+  },
+  {
+    "front": "der Rucksack/die Rucksäcke",
+    "back": "the backpack"
+  },
+  {
+    "front": "die Brieftasche/die Brieftaschen",
+    "back": "the wallet"
+  },
+  {
+    "front": "der Schlüsselbund/die Schlüsselbunde",
+    "back": "the keychain"
+  },
+  {
+    "front": "das Auto/die Autos",
+    "back": "the car"
+  },
+  {
+    "front": "das Fahrrad/die Fahrräder",
+    "back": "the bicycle"
+  },
+  {
+    "front": "der Bus/die Busse",
+    "back": "the bus"
+  },
+  {
+    "front": "der Zug/die Züge",
+    "back": "the train"
+  },
+  {
+    "front": "das Flugzeug/die Flugzeuge",
+    "back": "the airplane"
+  },
+  {
+    "front": "das Schiff/die Schiffe",
+    "back": "the ship"
+  },
+  {
+    "front": "der Roller/die Roller",
+    "back": "the scooter"
+  },
+  {
+    "front": "der Helm/die Helme",
+    "back": "the helmet"
+  },
+  {
+    "front": "die Jacke/die Jacken",
+    "back": "the jacket"
+  },
+  {
+    "front": "der Mantel/die Mäntel",
+    "back": "the coat"
+  },
+  {
+    "front": "die Hose/die Hosen",
+    "back": "the pants"
+  },
+  {
+    "front": "das Hemd/die Hemden",
+    "back": "the shirt"
+  },
+  {
+    "front": "das T-Shirt/die T-Shirts",
+    "back": "the T-shirt"
+  },
+  {
+    "front": "der Pullover/die Pullover",
+    "back": "the sweater"
+  },
+  {
+    "front": "die Socken/die Socken",
+    "back": "the socks"
+  },
+  {
+    "front": "die Schuhe/die Schuhe",
+    "back": "the shoes"
+  },
+  {
+    "front": "die Sandalen/die Sandalen",
+    "back": "the sandals"
+  },
+  {
+    "front": "die Stiefel/die Stiefel",
+    "back": "the boots"
+  },
+  {
+    "front": "der Gürtel/die Gürtel",
+    "back": "the belt"
+  },
+  {
+    "front": "die Mütze/die Mützen",
+    "back": "the hat"
+  },
+  {
+    "front": "der Schal/die Schals",
+    "back": "the scarf"
+  }
+]
